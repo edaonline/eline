@@ -1,3 +1,3 @@
-# eline
+# eline.sql
 
 CODEWARS KATA SOLUTION TRACKER IN SQL
